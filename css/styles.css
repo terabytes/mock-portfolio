@@ -38,6 +38,17 @@ header.row {
   color: #00a787;
 }
 
+.subtitle {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    margin-top: 0;
+    display: block;
+}
+
 hr {
   display: block;
   margin: 2em 10%;
